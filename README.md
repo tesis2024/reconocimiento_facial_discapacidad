@@ -1,5 +1,5 @@
 ## enlace de descarga
-https://drive.google.com/file/d/156ME8Owm9ISyEMkYHVSsgQ3LfApimbqE/view?usp=sharing
+https://drive.google.com/file/d/1q0p_3GExLCoF-BAFosDGxMBA6KOZYLCB/view?usp=sharing
 
 
 # reconocimiento_facial
