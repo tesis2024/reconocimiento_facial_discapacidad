@@ -1,3 +1,7 @@
+## enlace de descarga
+https://drive.google.com/file/d/156ME8Owm9ISyEMkYHVSsgQ3LfApimbqE/view?usp=sharing
+
+
 # reconocimiento_facial
 Propuesta dirigida para aquellas personas con alto grado de discapacidad visual, las cuales diariamente afrontan un sin nuevo de desafíos desde el ámbito sociocultural hasta ambiental, donde se ve reflejada dificultad tanto en el progreso y crecimiento personal
 ![image](https://github.com/tesis2024/reconocimiento_facial_discapacidad/assets/157004608/edd57d91-e703-4d66-9032-9921854400df)
